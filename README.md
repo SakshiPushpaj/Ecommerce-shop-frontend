@@ -6,7 +6,6 @@ Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# Snay_Tau_Shop_Frontend
+# Ecommerce-shop-backend
 
-Backend link : (https://github.com/Jayant1634/Snay_Tau_shop_backend)
-# Ecommerce-shop-frontend
+Backend link : (https://github.com/SakshiPushpaj/Ecommerce-shop-backend)
